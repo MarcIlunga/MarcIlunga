@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarcIlunga
-- 👀 I’m interested in Cryptography.
+- 👀 I’m interested in cryptography and security in general.
 - 🌱 I’m currently learning Zero-Knowledge proofs
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me email.
